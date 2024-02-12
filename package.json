@@ -1,0 +1,20 @@
+{
+  "name": "club_autotravel_bot",
+  "version": "1.0.0",
+  "description": "Telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "mail@wbcplace.ru",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "grammy": "^1.20.3",
+    "nodemon": "^3.0.3"
+  }
+}
